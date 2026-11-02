@@ -1,0 +1,9 @@
+python-dotenv
+groq
+openai
+langchain
+langchain-core
+langchain-groq
+langchain-openai
+fastmcp
+mcp-server-fetch
